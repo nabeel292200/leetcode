@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/nabeel292200/leetcode/tree/master/0782-jewels-and-stones) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/nabeel292200/leetcode/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/nabeel292200/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
