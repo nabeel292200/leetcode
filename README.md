@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/nabeel292200/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/nabeel292200/leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/nabeel292200/leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/nabeel292200/leetcode/tree/master/0782-jewels-and-stones) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nabeel292200/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nabeel292200/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/nabeel292200/leetcode/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/nabeel292200/leetcode/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,4 +45,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nabeel292200/leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/nabeel292200/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
