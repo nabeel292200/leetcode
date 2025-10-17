@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nabeel292200/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/nabeel292200/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nabeel292200/leetcode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/nabeel292200/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/nabeel292200/leetcode/tree/master/0067-add-binary) |
 | [0782-jewels-and-stones](https://github.com/nabeel292200/leetcode/tree/master/0782-jewels-and-stones) |
 ## Hash Table
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nabeel292200/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nabeel292200/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/nabeel292200/leetcode/tree/master/0231-power-of-two) |
 ## Binary Search
@@ -34,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nabeel292200/leetcode/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/nabeel292200/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
