@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nabeel292200/leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/nabeel292200/leetcode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/nabeel292200/leetcode/tree/master/0792-binary-search) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/nabeel292200/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/nabeel292200/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/nabeel292200/leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/nabeel292200/leetcode/tree/master/0412-fizz-buzz) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/nabeel292200/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
