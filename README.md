@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nabeel292200/leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/nabeel292200/leetcode/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nabeel292200/leetcode/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/nabeel292200/leetcode/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
