@@ -3,5 +3,11 @@
  * @return {number}
  */
 var mySqrt = function(x) {
-   return Math.floor(Math.sqrt(x))
+     let i = 0;
+
+    while (i * i <= x) {
+        i++;
+    }
+
+    return i - 1;
 };
