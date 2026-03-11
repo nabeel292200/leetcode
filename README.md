@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nabeel292200/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/nabeel292200/leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/nabeel292200/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nabeel292200/leetcode/tree/master/0069-sqrtx) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nabeel292200/leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/nabeel292200/leetcode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/nabeel292200/leetcode/tree/master/0605-can-place-flowers) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nabeel292200/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
