@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nabeel292200/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nabeel292200/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/nabeel292200/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/nabeel292200/leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/nabeel292200/leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/nabeel292200/leetcode/tree/master/0605-can-place-flowers) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nabeel292200/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/nabeel292200/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/nabeel292200/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nabeel292200/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nabeel292200/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/nabeel292200/leetcode/tree/master/0231-power-of-two) |
