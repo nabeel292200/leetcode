@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nabeel292200/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/nabeel292200/leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/nabeel292200/leetcode/tree/master/0782-jewels-and-stones) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nabeel292200/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nabeel292200/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nabeel292200/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
