@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nabeel292200/leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/nabeel292200/leetcode/tree/master/0782-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nabeel292200/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1768-merge-strings-alternately](https://github.com/nabeel292200/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nabeel292200/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nabeel292200/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/nabeel292200/leetcode/tree/master/2129-capitalize-the-title) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nabeel292200/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/nabeel292200/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/nabeel292200/leetcode/tree/master/0283-move-zeroes) |
+| [1768-merge-strings-alternately](https://github.com/nabeel292200/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
