@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/nabeel292200/leetcode/tree/master/0792-binary-search) |
 | [1046-last-stone-weight](https://github.com/nabeel292200/leetcode/tree/master/1046-last-stone-weight) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nabeel292200/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1528-shuffle-string](https://github.com/nabeel292200/leetcode/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/nabeel292200/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/nabeel292200/leetcode/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nabeel292200/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nabeel292200/leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/nabeel292200/leetcode/tree/master/0782-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nabeel292200/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1528-shuffle-string](https://github.com/nabeel292200/leetcode/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/nabeel292200/leetcode/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/nabeel292200/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nabeel292200/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
