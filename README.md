@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/nabeel292200/leetcode/tree/master/0792-binary-search) |
 | [1046-last-stone-weight](https://github.com/nabeel292200/leetcode/tree/master/1046-last-stone-weight) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nabeel292200/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/nabeel292200/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3248-snake-in-matrix](https://github.com/nabeel292200/leetcode/tree/master/3248-snake-in-matrix) |
 ## Bit Manipulation
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nabeel292200/leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/nabeel292200/leetcode/tree/master/0782-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nabeel292200/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/nabeel292200/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/nabeel292200/leetcode/tree/master/2129-capitalize-the-title) |
 | [3248-snake-in-matrix](https://github.com/nabeel292200/leetcode/tree/master/3248-snake-in-matrix) |
 ## Hash Table
