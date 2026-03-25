@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nabeel292200/leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/nabeel292200/leetcode/tree/master/0782-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nabeel292200/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2129-capitalize-the-title](https://github.com/nabeel292200/leetcode/tree/master/2129-capitalize-the-title) |
 | [3248-snake-in-matrix](https://github.com/nabeel292200/leetcode/tree/master/3248-snake-in-matrix) |
 ## Hash Table
 |  |
