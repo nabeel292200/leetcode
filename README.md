@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/nabeel292200/leetcode/tree/master/0792-binary-search) |
 | [1046-last-stone-weight](https://github.com/nabeel292200/leetcode/tree/master/1046-last-stone-weight) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nabeel292200/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1929-concatenation-of-array](https://github.com/nabeel292200/leetcode/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nabeel292200/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3248-snake-in-matrix](https://github.com/nabeel292200/leetcode/tree/master/3248-snake-in-matrix) |
 ## Bit Manipulation
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/nabeel292200/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/nabeel292200/leetcode/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/nabeel292200/leetcode/tree/master/1929-concatenation-of-array) |
 | [3248-snake-in-matrix](https://github.com/nabeel292200/leetcode/tree/master/3248-snake-in-matrix) |
 ## Two Pointers
 |  |
